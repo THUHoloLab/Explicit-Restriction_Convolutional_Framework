@@ -1,2 +1,2 @@
 # Explicit-Restriction Convolutional Framework
-Restriction Explicit Convolutional Model for Lensless Imaging System
+Explicit-Restriction Convolutional Framework for Lensless Imaging
