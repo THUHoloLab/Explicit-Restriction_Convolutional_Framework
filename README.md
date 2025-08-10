@@ -9,9 +9,9 @@ Mask-based lensless cameras break the constraints of traditional lens-based came
 
 ## How to use
 
-'main.m' to run the simulation
+`main.m` to run the simulation
 
-'main_exp.m' to run reconstruction with experimental code
+`main_exp.m` to run reconstruction with experimental code
 
 ## Citation
 @article{ma2022explicit,
@@ -25,6 +25,6 @@ Mask-based lensless cameras break the constraints of traditional lens-based came
   publisher={Optica Publishing Group}
 }
 
-##
+## Contact
 Contact: mayc22@mails.tsinghua.edu.cn ; clc@tsinghua.edu.cn
 
